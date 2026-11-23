@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="118" viewBox="0 0 840 118" fill="none">
+  <rect width="840" height="118" fill="transparent"/>
+
+  <text x="2" y="24" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#6e7681">~/hikaridevv</text>
+
+  <text x="0" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f0f6fc" letter-spacing="-1.5">k<tspan fill="#f59e0b">.</tspan><tspan fill="#30363d" font-weight="300"> / </tspan><tspan fill="#e6edf3" font-size="34" font-weight="600" letter-spacing="-0.8">hikari</tspan></text>
+
+  <rect x="230" y="45" width="2.5" height="30" fill="#f59e0b">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="2" y="102" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#8b949e">security tooling · systems · desktop apps · java / c++ / js</text>
+</svg>

@@ -1,26 +1,32 @@
-<p align="center">
-  <img src="banner.svg" alt="Hikari" width="100%" />
+<p>
+  <img src="header.svg" alt="k. / hikari" width="100%" />
 </p>
 
-### Selected Projects
+Building local-first security scanners, low-level utilities, and desktop tools in **Java**, **C++**, and **JavaScript**.
 
-| Project | Focus | Stack |
-| :--- | :--- | :--- |
-| [**veritas**](https://github.com/HikariDevv/veritas) | Desktop screenshare forensics & live RAM scanner (Minecraft, GTA V/FiveM, Roblox) | `Java` `Electron` `Win32` |
-| [**aegiscore**](https://github.com/HikariDevv/aegiscore) | PC security toolkit — malware scanner, persistence audit & AES-256 vault | `Java` |
-| [**binshield**](https://github.com/HikariDevv/binshield) | Static PE (`.exe`/`.dll`) analyzer for packers, API imports & IOCs | `Java` |
-| [**leakguard**](https://github.com/HikariDevv/leakguard) | High-speed secret scanner for catching leaked API keys & tokens | `C++17` |
-| [**qrdrop**](https://github.com/HikariDevv/qrdrop) | CLI QR generator (PNG, SVG, terminal) with instant cloud share links | `Java` |
-| [**lanbeam**](https://github.com/HikariDevv/lanbeam) | Local Wi-Fi file sharing from the terminal with QR pairing | `Java` |
-| [**stegavault**](https://github.com/HikariDevv/stegavault) | AES-256-GCM encrypted file & text steganography inside PNG images | `Java` |
+---
+
+### Security & Forensics
+
+- [**veritas**](https://github.com/HikariDevv/veritas) — Desktop screenshare scanner for Minecraft, GTA V/FiveM & Roblox with live Win32 RAM inspection, Replace Method checks, UserAssist since boot, and Recycle Bin recovery.
+- [**aegiscore**](https://github.com/HikariDevv/aegiscore) — PC security toolkit in Java: malware & script scanner, startup persistence auditor, AES-256 quarantine vault, and temp cleanup.
+- [**binshield**](https://github.com/HikariDevv/binshield) — Static PE (`.exe` / `.dll`) analyzer that flags packers, suspicious Windows API imports, and embedded IOCs.
+- [**leakguard**](https://github.com/HikariDevv/leakguard) — Fast C++17 secret scanner for catching leaked API keys, tokens, and credentials before pushing to Git.
+
+### Utilities
+
+- [**qrdrop**](https://github.com/HikariDevv/qrdrop) — CLI QR generator (PNG, SVG, terminal) with instant cloud share links for photos, files, and URLs.
+- [**lanbeam**](https://github.com/HikariDevv/lanbeam) — Local Wi-Fi file sharing from the terminal with QR pairing and a built-in browser transfer UI.
+- [**stegavault**](https://github.com/HikariDevv/stegavault) — Hide AES-256-GCM encrypted files and messages inside PNG images using LSB steganography.
+
+---
 
 ### Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-17%2B-18181b?style=flat-square&logo=openjdk&logoColor=f59e0b" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-17-18181b?style=flat-square&logo=cplusplus&logoColor=f4f4f5" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-ES2023-18181b?style=flat-square&logo=javascript&logoColor=f59e0b" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Electron-Desktop-18181b?style=flat-square&logo=electron&logoColor=f4f4f5" alt="Electron" />
-  <img src="https://img.shields.io/badge/Node.js-Runtime-18181b?style=flat-square&logo=nodedotjs&logoColor=f4f4f5" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQL-Databases-18181b?style=flat-square&logo=postgresql&logoColor=f4f4f5" alt="SQL" />
+`Java 17+` · `C++17` · `JavaScript` · `Electron` · `Node.js` · `SQL` · `Win32 API`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HikariDevv&bg_color=0d1117&color=8b949e&line=f59e0b&point=f0f6fc&area=true&area_color=f59e0b&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%" />
 </p>

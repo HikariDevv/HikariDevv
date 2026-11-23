@@ -20,7 +20,7 @@
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/HikariDevv/veritas">veritas</a></strong><br/>
-      Desktop screenshare forensics for Minecraft, GTA V/FiveM &amp; Roblox — live Win32 RAM inspection, Replace Method, UserAssist since boot &amp; Recycle Bin recovery.<br/><br/>
+      Desktop screenshare forensics for Minecraft, GTA V/FiveM &amp; Roblox: live Win32 RAM inspection, Replace Method, UserAssist since boot &amp; Recycle Bin recovery.<br/><br/>
       <code>Java</code> <code>Electron</code> <code>Win32</code>
     </td>
     <td width="50%" valign="top">

@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1400&color=F4F4F5&center=true&vCenter=true&width=640&height=48&lines=hikari+%2F%2F+security+%26+systems;java+%C2%B7+c%2B%2B+%C2%B7+javascript+%C2%B7+electron;building+local-first+forensic+tools" alt="Typing Header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1400&color=F4F4F5&center=true&vCenter=true&width=640&height=48&lines=hikari+%2F%2F+security+%26+systems;java+%C2%B7+c%2B%2B+%C2%B7+javascript+%C2%B7+electron;building+local-first+forensic+tools" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1400&color=18181B&center=true&vCenter=true&width=640&height=48&lines=hikari+%2F%2F+security+%26+systems;java+%C2%B7+c%2B%2B+%C2%B7+javascript+%C2%B7+electron;building+local-first+forensic+tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1400&color=F59E0B&center=true&vCenter=true&width=640&height=48&lines=hikari+%2F%2F+security+%26+systems;java+%C2%B7+c%2B%2B+%C2%B7+javascript+%C2%B7+electron;building+local-first+forensic+tools" alt="Hikari" />
+</picture>
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,js,nodejs,electron,postgres,linux,git&theme=dark" alt="Tech Stack" />
@@ -54,6 +58,14 @@
 ---
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=HikariDevv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e&icon_color=f59e0b" alt="GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HikariDevv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e&icon_color=f59e0b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HikariDevv&show_icons=true&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=52525b&icon_color=f59e0b" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=HikariDevv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e&icon_color=f59e0b" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=52525b" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e" alt="Top Languages" />
+  </picture>
 </div>

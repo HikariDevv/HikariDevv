@@ -59,13 +59,13 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HikariDevv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e&icon_color=f59e0b" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HikariDevv&show_icons=true&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=52525b&icon_color=f59e0b" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=HikariDevv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e&icon_color=f59e0b" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HikariDevv&background=0D1117&border=21262D&border_radius=10&ring=F59E0B&fire=F59E0B&currStreakLabel=F4F4F5&sideLabels=8B949E&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=6E7681" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HikariDevv&background=FFFFFF&border=D0D7DE&border_radius=10&ring=F59E0B&fire=F59E0B&currStreakLabel=18181B&sideLabels=52525B&currStreakNum=18181B&sideNums=18181B&dates=71717A" />
+    <img height="158" src="https://streak-stats.demolab.com?user=HikariDevv&background=0D1117&border=21262D&border_radius=10&ring=F59E0B&fire=F59E0B&currStreakLabel=F4F4F5&sideLabels=8B949E&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=6E7681" alt="GitHub Streak" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=52525b" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&border_radius=10&border_color=21262D&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&border_radius=10&border_color=d0d7de&bg_color=ffffff&title_color=18181b&text_color=52525b" />
+    <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikariDevv&layout=compact&border_radius=10&border_color=21262D&bg_color=0d1117&title_color=f4f4f5&text_color=8b949e" alt="Top Languages" />
   </picture>
 </div>
